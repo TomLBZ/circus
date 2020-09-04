@@ -1,3 +1,5 @@
+package circus.animal;
+
 public class Bird extends Animal {
     @Override
     public int getValue() {
